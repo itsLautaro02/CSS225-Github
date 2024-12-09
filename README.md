@@ -1,7 +1,7 @@
 CSS225 - Course Assignments
 
 About Me
-/
+-
 Hi, my name is Lautaro Possi, and I’m a Computer Science major. This repository contains all my CSS225 class assignments, showcasing the progress and learning I’ve achieved throughout the course. Each assignment represents different concepts and techniques covered during the semester.
 
 Course Overview
